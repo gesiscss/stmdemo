@@ -2,7 +2,7 @@
 
 You can try it:
 
-[![Binder](https://notebooks.gesis.org/binder/badge.svg)](https://notebooks.gesis.org/binder/v2/gh/arnim/stmdemo/master?urlpath=lab)
+[![Binder](https://notebooks.gesis.org/binder/badge.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/stmdemo/master?urlpath=lab/tree/lda.ipynb)
 
 
 ## Contents
@@ -13,7 +13,7 @@ These notebooks provide an introduction to Natural Language Processing (NLP) in 
 ## Set up your environment
 You can run this tutorial online using the [GESIS Notebooks](https://notebooks.gesis.org/) or the [MyBinder](https://mybinder.org) service. You can start it by using this [link](https://notebooks.gesis.org/binder/v2/gh/arnim/stmdemo/master?urlpath=lab) or by clicking the 'launch binder' button below.
 
-[![Binder](https://notebooks.gesis.org/binder/badge.svg)](https://notebooks.gesis.org/binder/v2/gh/arnim/stmdemo/master?urlpath=lab)
+[![Binder](https://notebooks.gesis.org/binder/badge.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/stmdemo/master?urlpath=lab/tree/lda.ipynb)
 
 For running these notebooks on your machiene you will need to have installed the packages **quanteda**, **stm** and **tidyverse**. you can do this using RStudio menu, or executing the following commands in your R console
 ```R
