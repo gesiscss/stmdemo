@@ -32,3 +32,9 @@ install.packages("tidyverse")
 
 
 **Lecturer:** Arnim Bleier is a postdoctoral researcher in the Department Computational Social Science at GESIS. His research interests are in the field of Natural Language Processing and Computational Social Science. In collaboration with social scientists, he develops Bayesian models for the content, structure and dynamics of social phenomena.
+
+---
+
+Funded by the German Research Foundation (DFG).
+FKZ/project number:
+[324867496](https://gepris.dfg.de/gepris/projekt/324867496?context=projekt&task=showDetail&id=324867496&).
